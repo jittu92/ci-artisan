@@ -1,5 +1,5 @@
 {
-    "name": "ci/artisan",
+    "name": "ci-jittu/artisan",
     "description": "Create model/view/controller/js",
     "type": "n",
     "license": "n",
